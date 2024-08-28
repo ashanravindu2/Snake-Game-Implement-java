@@ -1,0 +1,88 @@
+#btnLogin:hover {
+    -fx-cursor: hand;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-effect: dropshadow(three-pass-box, #454fd6, 10, 0.7, 0, 0);
+    -fx-transition-duration: 0.2s;
+}
+
+#btnClose:hover {
+    -fx-cursor: hand;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-effect: dropshadow(three-pass-box, #dc3545, 10, 0.7, 0, 0);
+    -fx-transition-duration: 0.2s;
+}
+
+
+#btnMinimize:hover {
+    -fx-cursor: hand;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-effect: dropshadow(three-pass-box, #ffc107, 10, 0.7, 0, 0);
+    -fx-transition-duration: 0.2s;
+}
+
+#btnBack:hover {
+    -fx-cursor: hand;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-effect: dropshadow(three-pass-box, #28a745, 10, 0.7, 0, 0);
+    -fx-transition-duration: 0.2s;
+}
+
+#btnPlay:hover {
+    -fx-cursor: hand;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-effect: dropshadow(three-pass-box, #ffffff, 10, 0.7, 0, 0);
+    -fx-transition-duration: 0.2s;
+}
+
+#btnScoreList:hover {
+    -fx-cursor: hand;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-effect: dropshadow(three-pass-box, #ffffff, 10, 0.7, 0, 0);
+    -fx-transition-duration: 0.2s;
+}
+
+#btnExit:hover {
+    -fx-cursor: hand;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-effect: dropshadow(three-pass-box, #ffffff, 10, 0.7, 0, 0);
+    -fx-transition-duration: 0.2s;
+}
+
+#btnEmoji:hover {
+    -fx-cursor: hand;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-effect: dropshadow(three-pass-box, #454fd6, 10, 0.7, 0, 0);
+    -fx-transition-duration: 0.2s;
+}
+
+#btnRestartp:hover {
+    -fx-cursor: hand;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-effect: dropshadow(three-pass-box, #40ce62, 10, 0.7, 0, 0);
+    -fx-transition-duration: 0.2s;
+}
+
+#btnScorep:hover {
+    -fx-cursor: hand;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-effect: dropshadow(three-pass-box, #face4b, 10, 0.7, 0, 0);
+    -fx-transition-duration: 0.2s;
+}
+
+#btnExitp:hover {
+    -fx-cursor: hand;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-effect: dropshadow(three-pass-box, #ea4c5b, 10, 0.7, 0, 0);
+    -fx-transition-duration: 0.2s;
+}
